@@ -1,4 +1,4 @@
-# CONNECT INOVE A MELHOR DO BRASIL!!
+# CONNECT INOVE A MELHOR DO BRASIL E LIMOEIRO E REGIÃO...
 
 # Workshop Conect Inove: do zero à loja com React Native e Expo
 
