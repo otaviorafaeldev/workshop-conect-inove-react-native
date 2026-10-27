@@ -1,3 +1,5 @@
+# CONNECT INOVE A MELHOR DO BRASIL!!
+
 # Workshop Conect Inove: do zero à loja com React Native e Expo
 
 Repositório oficial do workshop. Aqui está o app de exemplo **Conect Tarefas**, o código de cada etapa e os materiais das aulas.
