@@ -22,6 +22,7 @@ Professor: Otávio Rafael | [Portfólio](https://portfolio.otaviorafael.com.br/#
 |---|---|
 | `conect-tarefas/` | Projeto completo (versão final do app) |
 | `conect-tarefas/etapas/` | Código de cada etapa: `App.etapa1.js`, `App.etapa2.js`, `App.etapa3.js` |
+| `conect-tarefas.apk` | App pronto para instalar no Android (sem Expo Go) |
 | `material/` | Apostila e slides em PDF |
 
 ## Pré-requisitos
@@ -50,6 +51,16 @@ npx expo start
 ```
 
 Escaneie o QR Code com o Expo Go (Android) ou com a Câmera (iPhone). Se não abrir, use `npx expo start --tunnel`.
+
+## Instalar o app no Android (APK)
+
+Quer ver o app final funcionando no seu celular sem instalar nada no computador? Baixe o APK e instale:
+
+1. [Baixe o conect-tarefas.apk](https://github.com/otaviorafaeldev/workshop-conect-inove-react-native/raw/main/conect-tarefas.apk) (cerca de 49 MB) direto no celular Android.
+2. Abra o arquivo baixado. Se o Android pedir, permita **instalar apps de fontes desconhecidas** para o navegador ou gerenciador de arquivos que você usou.
+3. Toque em **Instalar** e depois em **Abrir**.
+
+O app não precisa do Expo Go nem de internet para funcionar. Ele é assinado com chave de teste, por isso o Android pode mostrar um aviso de segurança. É esperado.
 
 ## Como fazer os desafios na sua branch
 
